@@ -1,0 +1,1 @@
+A dekódolt fájlok az alábbi linkeken érthetők el: "1090.wav": https://drive.google.com/file/d/10JWWf1XCzBMS1CKOZgXKSSbDS2j858EH/view?usp=drive_link , "adsb_downloaded.wav": https://www.sdrangel.org/iq-files/ . A futtatáshoz telepítés után a 'main.py' és 'ber_snr.ipynb' fájlok szükségesek.
